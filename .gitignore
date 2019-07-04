@@ -11,4 +11,5 @@ server/build
 .DS_Store
 .DS_Store?
 
-app/views/node_modules
+client/node_modules
+out
